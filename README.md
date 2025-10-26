@@ -35,26 +35,29 @@ This is what will make your project stand out.
 •	Payment Flexibility: Since many users may be unbanked, if Swivel supports it, highlight the ability to use cash-to-digital services. If not, state it as a future goal.
 
 ### Step 5: Phased Hackathon Plan for "Circulus Casa"
-  Phase 1: The Familia Foundation (First 8 hours)
-  •	Set up React/Next.js frontend and Node.js backend.
-  •	Implement Spanish-language UI and authentication.
-  •	Build the "Crear un Grupo" flow that creates a Swivel wallet.
-  •	Build a simple dashboard showing the group's wallet balance.
-  •	Demo Goal: Show a user creating a "Casa" group and seeing the shared balance.
-  Phase 2: Transparencia y Cuentas (Transparency & Bills) (Next 8 hours)
-  •	Build the "Calendarario de Cuentas." This is a visual winner.
-  •	Implement the logic for splitting bills and tracking who has paid.
-  •	Integrate Swivel Payment Links so members can pay their share.
-  •	Demo Goal: Show a bill on the calendar, have one member pay their share via a payment link, and see the dashboard update.
-  Phase 3: Metas y Confianza (Goals & Trust) (Next 6 hours)
-  •	Build the "Crear una Meta" flow (creates a separate Swivel wallet).
-  •	Implement the visual progress bar for the savings goal.
-  •	Implement the core collaboration feature: The 2-person approval rule for large withdrawals. Build the approval queue UI.
-  •	Demo Goal: Show a family saving for a "Fiesta de Quinceañera." Show a withdrawal request and demonstrate that it requires two separate users to approve before the Swivel Payout is executed.
-  Phase 4: Polish & Story (Final 2 hours)
-  •	Add one "wow" element, like a celebratory animation when a savings goal is met.
-  •	Fix any critical bugs.
-  •	Prepare your 2-minute pitch, focusing on the cultural relevance and the power of "confianza" through technology.
+Phase 1: The Familia Foundation (First 8 hours)
+- Set up React/Next.js frontend and Node.js backend.
+- Implement Spanish-language UI and authentication.
+- Build the "Crear un Grupo" flow that creates a Swivel wallet.
+- Build a simple dashboard showing the group's wallet balance.
+- Demo Goal: Show a user creating a "Casa" group and seeing the shared balance.
+
+Phase 2: Transparencia y Cuentas (Transparency & Bills) (Next 8 hours)
+- Build the "Calendarario de Cuentas." This is a visual winner.
+- Implement the logic for splitting bills and tracking who has paid.
+- Integrate Swivel Payment Links so members can pay their share.
+- Demo Goal: Show a bill on the calendar, have one member pay their share via a payment link, and see the dashboard update.
+
+Phase 3: Metas y Confianza (Goals & Trust) (Next 6 hours)
+- Build the "Crear una Meta" flow (creates a separate Swivel wallet).
+- Implement the visual progress bar for the savings goal.
+- Implement the core collaboration feature: The 2-person approval rule for large withdrawals. Build the approval queue UI.
+- Demo Goal: Show a family saving for a "Fiesta de Quinceañera." Show a withdrawal request and demonstrate that it requires two separate users to approve before the Swivel Payout is executed.
+
+Phase 4: Polish & Story (Final 2 hours)
+- Add one "wow" element, like a celebratory animation when a savings goal is met.
+- Fix any critical bugs.
+- Prepare your 2-minute pitch, focusing on the cultural relevance and the power of "confianza" through technology.
 
 ### The Pitch for "Circulus Casa"
 Hook: "In many Hispanic households, money is a family affair. But managing it together is often stressful, informal, and based on cash. We built "Circulus Casa" to bring confianza and transparency to family finances."
