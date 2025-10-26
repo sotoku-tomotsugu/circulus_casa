@@ -1,6 +1,12 @@
 ## Project Name: "Circulus Casa" (Circle Home)
 Core Concept: A financial app built for familias and grupos comunitarios that combines easy money movement with the cultural value of confianza (trust) and collective support.
 
+### Project Member:
+- Jose Guevara <Jose.Guevara@my.utsa.edu>
+- Daisy Montelongo <Daisy.Montelongo@my.utsa.edu>
+- Sotoku Tomotsugu <Sotoku.Tomotsugu@my.utsa.edu>
+- Aeden Cone <Aeden.Cone@my.utsa.edu>
+
 ### Step 1: Deepen the Problem Understanding
 Key financial pain points for low-income Hispanic families/groups:
 •	Pooling Money for Rent/Utilities: Multiple family members often contribute to a single household's major bills.
