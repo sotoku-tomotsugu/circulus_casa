@@ -1,5 +1,5 @@
 ## Project Name: "Circulus Casa" (Circular Home)
-Core Concept: A financial app built for familias and grupos comunitarios that combines easy money movement with the cultural value of confianza (trust) and collective support.
+Core Concept: A financial app built for familias and grupos comunitarios that combines easy money movement with the cultural value of confianza (trust) and collective support. This is a 24-hour long project we worked on for RowdyHacks XI hackathon hosted by UTSA.
 
 ### Project Member:
 - Jose Guevara <Jose.Guevara@my.utsa.edu>
